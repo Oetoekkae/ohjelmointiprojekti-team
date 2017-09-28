@@ -1,12 +1,15 @@
 var m1 = "m1 src2 r1";
-var someNumber = 0;
+
+var singleNumber = 0;
+
 function getNumber() {
 	return 88;
 }
+
 function getSecondNumber() {
 	return 7;
 }
 
 function setNumber(number) {
-	someNumber = number;
+	singleNumber = number;
 }
