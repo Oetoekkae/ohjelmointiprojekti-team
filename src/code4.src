@@ -1,0 +1,4 @@
+var uusiMJ = '';
+function getUusiMJ() {
+	return uusiMJ;
+}
